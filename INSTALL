@@ -1,0 +1,9 @@
+Building SAVLE
+
+See doc/readme-qt.rst for instructions on building SAVLE QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of SAVLE.
+
+See doc/build-*.txt for instructions on building savled,
+the intended-for-services, no-graphical-interface, reference
+implementation of SAVLE.
